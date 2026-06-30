@@ -29,20 +29,19 @@
 
 ---
 
+---
+
 ### 🎯 Current Focus
 
-```text
+```yaml
 Languages:
   - Java (Learning)
 
 Development:
   - Minecraft Plugins (Spigot / Paper)
-  - Learning Algorithm Logic
+  - Algorithm Logic Studies
 
 Goals:
   - Develop custom server systems
-  - Improve coding skills every day
-
-
-
+  - Improve coding skills every single day
 
