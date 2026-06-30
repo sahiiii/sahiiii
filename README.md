@@ -11,7 +11,7 @@
 * 💻 Tech stack I use: **Java, Git, and GitHub**.
 * 🚀 Learning, creating, and evolving every single day.
   
-[![My Skills](https://skillicons.dev/icons?i=java,git,github)](https://skillicons.dev)  
+<img src="https://skillicons.dev/icons?i=java" /> <img src="https://skillicons.dev/icons?i=git" /> <img src="https://skillicons.dev/icons?i=github" />  
 
 ### 💎 Contact & Community
 * 💬 Discord: `@yikilcan`
