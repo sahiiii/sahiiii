@@ -11,7 +11,7 @@
 * 💻 Tech stack I use: **Java, Git, and GitHub**.
 * 🚀 Learning, creating, and evolving every single day.
 
-<img src="https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C++-333333?style=flat&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Eclipse-333333?style=flat&logo=eclipse&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-333333?style=flat&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJ-333333?style=flat&logo=intellij-idea&logoColor=white" /> <img src="https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-222222?style=flat-square&logo=openjdk&logoColor=ED8B00" /> <img src="https://img.shields.io/badge/Git-222222?style=flat-square&logo=git&logoColor=F05032" /> <img src="https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=github&logoColor=white" />
 
 ### 💎 Contact & Community
 * 💬 Discord: `@yikilcan`
