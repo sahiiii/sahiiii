@@ -43,9 +43,7 @@ Goals:
   - Develop custom server systems
   - Improve coding skills every day
 
-### 💎 Contact & Community
-* 💬 Discord: `@yikilcan`
-  
+
 
 ---
 
